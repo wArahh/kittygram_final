@@ -28,7 +28,7 @@ services:
       - static:/static
 
   gateway:
-    image: warah/kittygram_nginx
+    image: warah/kittygram_gateway
     depends_on:
       - backend
     ports:
