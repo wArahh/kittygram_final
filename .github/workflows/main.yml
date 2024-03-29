@@ -120,4 +120,3 @@ jobs:
           context: ./gateway/
           push: true
           tags: warah/kittigram_gateway:latest
-
