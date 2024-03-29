@@ -119,4 +119,4 @@ jobs:
         with:
           context: ./gateway/
           push: true
-          tags: warah/kittigram_gateway:latest
+          tags: warah/kittigram_nginx:latest
