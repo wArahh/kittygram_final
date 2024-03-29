@@ -59,4 +59,3 @@ jobs:
       run: |
         cd frontend/
         npm run test
-
