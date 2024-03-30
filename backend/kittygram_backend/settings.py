@@ -1,7 +1,10 @@
 import os
 from pathlib import Path
+from dotenv import load_dotev
 
 from django.core.management.utils import get_random_secret_key
+
+load_dotev()
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
