@@ -1,4 +1,4 @@
-- [wArahh](https://github.com/wArahh)
+[![Main Kittygram workflow](https://github.com/wArahh/kittygram_final/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/wArahh/kittygram_final/actions/workflows/main.yml)
 
 # Kittygram
 Данный проект это соц сеть для котиков. Здесь вы можете опубликовать своего кота, посмотреть на других и вынести полезные лайфхаки других хозяев
